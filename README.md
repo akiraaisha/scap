@@ -78,6 +78,3 @@ sCap requires root access because of binding raw socket. When you launch sCap it
 
 ###Feel free to fork
 You can fork, modify and change the code unther the GNU GPL 3 license. The project contains LICENSE file to see full license description.
-
-###Get more info from blog
-- Offencive-Security Georgia [http://off-sec.com/](http://off-sec.com)
